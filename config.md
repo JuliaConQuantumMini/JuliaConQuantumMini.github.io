@@ -2,7 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Stefan Krastanov"
+author = "JuliaCon Quantum Mini Organizers"
 mintoclevel = 2
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
@@ -17,9 +17,9 @@ ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
-website_title = "Krastanov Lab"
-website_descr = "Website of Prof. Krastanov's research group."
-website_url   = "https://lab.krastanov.org/"
+website_title = "Quantum Minisymposium @ JuliaCon"
+website_descr = "Website for Quantum Minisymposium @ JuliaCon"
+website_url   = "https://juliaconquantummini.github.io/"
 +++
 
 <!--

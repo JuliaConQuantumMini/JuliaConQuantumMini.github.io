@@ -1,1 +1,1 @@
-# The Website of the Krastanov Lab at UMass Amherst
+# The Website of the Quantum Minisymposium @ JuliaCon

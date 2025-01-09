@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Quantum Minisymposium @ JuliaCon  ]]>
+    </title>
+    <link> https://juliaconquantummini.org/ </link>
+    <description>
+      <![CDATA[  Website for Quantum Minisymposium @ JuliaCon  ]]>
+    </description>
+    <atom:link
+      href="https://juliaconquantummini.org/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  About the website  ]]>
+  </title>
+  <link> https://juliaconquantummini.org/aboutwebsite/index.html </link>
+  <guid> https://juliaconquantummini.org/aboutwebsite/index.html </guid>
+  <description>
+    <![CDATA[  About the website.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>JuliaCon Quantum Mini Organizers</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>

@@ -1,4 +1,4 @@
-Sitemap: https://juliaconquantummini.org/sitemap.xml
+Sitemap: https://juliaconquantummini.github.io/sitemap.xml
 
 User-agent: *
 Disallow:

@@ -11,12 +11,12 @@
     <title>
       <![CDATA[  Quantum Minisymposium @ JuliaCon  ]]>
     </title>
-    <link> https://juliaconquantummini.org/ </link>
+    <link> https://juliaconquantummini.github.io/ </link>
     <description>
       <![CDATA[  Website for Quantum Minisymposium @ JuliaCon  ]]>
     </description>
     <atom:link
-      href="https://juliaconquantummini.org/feed.xml"
+      href="https://juliaconquantummini.github.io/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  About the website  ]]>
   </title>
-  <link> https://juliaconquantummini.org/aboutwebsite/index.html </link>
-  <guid> https://juliaconquantummini.org/aboutwebsite/index.html </guid>
+  <link> https://juliaconquantummini.github.io/aboutwebsite/index.html </link>
+  <guid> https://juliaconquantummini.github.io/aboutwebsite/index.html </guid>
   <description>
     <![CDATA[  About the website.  ]]>
   </description>  
